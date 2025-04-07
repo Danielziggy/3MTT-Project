@@ -1,0 +1,100 @@
+<!DOCTYPE>
+<html>
+<head>
+<meta charset="UTf-8">
+<title>My Profile</title>
+</head>
+<body>
+<div>
+<h1 id="index-home">WELCOME TO MY PROFILE</h1>
+<nav>
+	<ul>
+		<li><a href="#index-about">About Me</a></li>
+		<li><a href="#index-hobbies">Hobbies</a></li>
+		<li><a href="#index-contact">Contact</a></li>
+<p><a href="#footer">RETURN END</a></p>
+	</ul>
+</nav>
+</div>
+</body>
+<body>
+<div>
+<h2 id="index-about">BIOGRAPHY</h2>
+<p>Picture</p>
+<img src="Passport1.jpg" alt="My Face" width="128" height="128">
+<p>Full-Name:		Daniel Zibom Duniya</p>
+<p>Gender:		Male</p>
+<p>Hieght:		6.5m</p>
+<p>Date of Birth:	03/March/1990</p>
+<p>Age:			35 Years</p>
+<p>Skin-Colour:		Dark</p>
+<p>Tatoe/Scar:		None</p>
+<p>Marrital Status:	Married</p> 
+<p>Spouse:		Priscilla Daniel Duniya (QueenOfMyHeart)</p>
+<p>Children:		Daron Chet'Agwaza Daniel Benjamin</p>
+<p>Country:		Nigerian</p>
+<p>State:		Kaduna State</p>
+<p>Religion:		Christianity</p>
+<p>Tribe:		Atyap</p>
+<p>LGA:			Kaduna/South</p>
+<p><a href="#index-home">RETURN HOME</a></p>
+<p><a href="#footer">RETURN END</a></p>
+</div>
+<div>
+<h3>CARRIER</h3>
+<p>Strong, proactive and innovative cybersecurity analyst, data analyst, artificial intelligence analyst, risk analyst, database designer and manager. High experience in software engineering process, software quality and testing, and proficiency in computer forensics and data analytics. High practical skills in computer networking, computer hardware and spreadsheet packages.
+<br>Proficiency in Information Technology Infrastructure Library, Identity Access Management and Oracle.</br>
+<p><a href="#index-home">RETURN HOME</a></p>
+<p><a href="#footer">RETURN END</a></p>
+</div>
+<div>
+<h3>COMPETENCIES AND SKILLS</h3>
+<p>•	Cyber Security Analyst</p><p>•	Data Analytics </p><p>•	Hacking and Penetration Testing</p><p>•	Software Testing/Quality Assurance</p>
+<p>•	Ethical Hacking Essentials (EHE)</p><p>•	AI (Artificial Intelligence)</p><p>•	IAM (Identity Access Management)</p>
+<p>•	ITIL (Information Technology Infrastructure Library)</p><p>•	ICIP (Introduction to Critical Information Infrastructure Protection)</p>
+<p>•	APT (Advance Persistent Threat)</p><p>•	Risk Analyst</p><p>•	SQL (Sequential Query Language)</p><p>•	Nmap</p><p>•	Computer Forensics </p><p>•	Database Design</p>
+<p>•	Software Engineering</p><p>•	Tableau</p><p>•	IC3 (Internet & Computing Core Certification)</p><p>•	HTML (Hyper-Text Markup Language)</p>
+<p>•	Spreadsheet Packages (Excel)</p><p>•	Research </p><p>•	Critical Thinking</p>
+<p><a href="#index-home">RETURN HOME</a></p>
+<p><a href="#footer">RETURN END</a></p>
+</div>
+</body>
+<body>
+<div>
+<h2 id="index-hobbies">HOBBIES</h2>
+<nav>
+	<ul>
+		<li><a href="#">Research</li>
+		<li><a href="#">Analysis</li>
+		<li><a href="#">Travelling</li>
+		<li><a href="#">Moviesh</li>
+		<li><a href="#">Footbal</li>
+	</ul>
+<p><a href="#index-home">RETURN HOME</a></p>
+<p><a href="#footer">RETURN END</a></p>
+</nav>
+</div>
+</body>
+<body>
+<div>
+<h2 id="index-contact">CONTACT</h2>
+<p>Address:	25 Muazu Aliyu Road, Sabon Tasha (GRA), Chikun LGA, Kaduna South, Kaduna State, Nigeria.</p>
+<p>Phone:	07065555624, 07080008931, 08179322225</p>
+<p>Email:	duniyadanielziggy@gmail.com duniyadanielzibom3@gmail.com</p>
+<p>Linkedln:	https://www.linkedin.com/in/daniel-duniya-1a794a258</p>
+<p><a href="#index-home">RETURN HOME</a></p>
+<p><a href="#footer">RETURN END</a></p>
+</div>
+</body>
+<body>
+<div>
+	<footer>
+	<h2 id="footer">FOR ENQUIRIES</h2>
+	<p>Address:	25 Muazu Aliyu Road, Sabon Tasha (GRA), Chikun LGA, Kaduna South, Kaduna State, Nigeria.</p>
+	<p>Email:	duniyadanielziggy@gmail.com duniyadanielzibom3@gmail.com</p>
+	<p>Linkedln:	https://www.linkedin.com/in/daniel-duniya-1a794a258</p>
+	<p><a href="#index-home">RETURN HOME</a></p>		
+	</footer>
+</div>
+</body>
+</html>
