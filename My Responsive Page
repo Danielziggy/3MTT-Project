@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+        <title>My Responsive Page</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/Responsive_main.css"/>
+</head>
+<main>
+    <header>
+        <h1 id="index_home">CYBER SECURITY SERVICES</h1>
+        <h2>INTRODUCTION</h2>
+        <P>Cyber Security Services encompass a wide range of practices, technologies, and processes designed to protect networks, systems, and data from cyber threats such as hacking, malware, and data breaches. These services play a critical role in safeguarding sensitive information, ensuring business continuity, and maintaining trust in the digital age. Organizations of all sizes rely on cybersecurity professionals to assess vulnerabilities, implement protective measures, and respond to incidents effectively.
+        </P>
+        <h2>DESCRIPTION (Proposition)</h2>
+           <P>"Protecting Digital Assets Through Proactive Security Solutions"
+            Cyber Security Services provide essential defense mechanisms to prevent cyber attacks and ensure the integrity, confidentiality, and availability of digital resources.
+            </P>
+         <P>Interested?<br>
+         <button>Sign Up</button><br>Already Have an Account?<br><button>Log In</button></p>
+    </header>
+    <section>
+    <div class="content-wrapper">
+        <div class="content-container">
+            <img src="Pentest_image_fx.jpg" alt="PenTesting_Image" width="128" height="128"><br>
+            <h3>PENETRATION TESTING</h3>
+            <P>Penetration testing, also known as "ethical hacking," is like hiring a friendly hacker to try and break into your computer systems—before the bad guys do. The goal is to find weak spots in your security so they can be fixed before someone takes advantage of them. It helps keep your business safe from cyber attacks.
+            </P>
+            <button>Learn More</button>
+        </div>
+        <div class="content-container">
+            <img src="CS_image_fx (1).jpg" alt="Cybersecurity_image" width="128" height="128"><br>
+            <h3>CYBERSECURITY CONSULTANCY</h3>
+            <P>Cybersecurity consultancy is like having a tech-savvy advisor for your business's online safety. These experts help you understand the risks you face, guide you in choosing the right protection, and create a plan to keep your data and systems secure. Think of them as your digital bodyguards with a strategy.
+            </P>
+            <button>Learn More</button>
+        </div>
+        <div class="content-container">
+            <img src="Forensics_image_fx (2).jpg" alt="Forensics_image" width="128" height="128"><br>
+            <h3>FORENSICS ANALYSIS</h3>
+            <P>Forensic analysis in cybersecurity is like being a digital detective. When something suspicious happens—like a data breach or hack—experts investigate what went wrong, how it happened, and who did it. They collect evidence, trace digital footprints, and help businesses understand the attack so it doesn’t happen again.
+            </P>
+            <button>Learn More</button>
+        </div>
+
+    </div>
+    </section>
+    <div class="foot">
+        <footer>
+        <h2>FOR ENQUIRIES</h2>
+        <p>Address:	    25 Muazu Aliyu Road, Sabon Tasha (GRA), Chikun LGA, Kaduna South, Kaduna State, Nigeria.</p>
+        <p>Email:	    duniyadanielziggy@gmail.com duniyadanielzibom3@gmail.com</p>
+        <p>Phone:       07065555624</p>
+        <p>Linkedln:	    https://www.linkedin.com/in/daniel-duniya-1a794a258</p>
+        <p>© 2025 [Zidyip Realm]. All rights reserved.<br>
+            Protecting your digital world with trusted cybersecurity solutions.</p><br>
+        <a href="#index_home"><button>RETURN HOME</button></a>		
+        </footer>
+    </div>
+</main>
+</html>
